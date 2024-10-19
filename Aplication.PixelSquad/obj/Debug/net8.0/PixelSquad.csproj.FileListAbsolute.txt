@@ -1,0 +1,17 @@
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/bin/Debug/net8.0/PixelSquad.deps.json
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/bin/Debug/net8.0/PixelSquad.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/bin/Debug/net8.0/PixelSquad.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/bin/Debug/net8.0/Domain.Base.Entities.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/bin/Debug/net8.0/Infrastructure.DataAccess.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/bin/Debug/net8.0/Domain.Base.Entities.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/bin/Debug/net8.0/Infrastructure.DataAccess.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/PixelSquad.csproj.AssemblyReference.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/PixelSquad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/PixelSquad.AssemblyInfoInputs.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/PixelSquad.AssemblyInfo.cs
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/PixelSquad.csproj.CoreCompileInputs.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/PixelSquad.csproj.Up2Date
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/PixelSquad.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/refint/PixelSquad.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/PixelSquad.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/PixelSquad/obj/Debug/net8.0/ref/PixelSquad.dll

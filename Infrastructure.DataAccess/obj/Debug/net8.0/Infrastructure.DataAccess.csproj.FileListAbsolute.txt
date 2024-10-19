@@ -1,0 +1,15 @@
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/Infrastructure.DataAccess.csproj.AssemblyReference.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/Infrastructure.DataAccess.AssemblyInfoInputs.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/Infrastructure.DataAccess.AssemblyInfo.cs
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/bin/Debug/net8.0/Infrastructure.DataAccess.deps.json
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/bin/Debug/net8.0/Infrastructure.DataAccess.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/bin/Debug/net8.0/Infrastructure.DataAccess.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/bin/Debug/net8.0/Domain.Base.Entities.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/bin/Debug/net8.0/Domain.Base.Entities.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/Infrastr.795AC929.Up2Date
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/Infrastructure.DataAccess.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/refint/Infrastructure.DataAccess.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/Infrastructure.DataAccess.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/obj/Debug/net8.0/ref/Infrastructure.DataAccess.dll

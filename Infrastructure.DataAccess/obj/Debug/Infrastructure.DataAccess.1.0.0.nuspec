@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Infrastructure.DataAccess</id>
+    <version>1.0.0</version>
+    <authors>Infrastructure.DataAccess</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Domain.Base.Entities" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Infrastructure.DataAccess/bin/Debug/net8.0/Infrastructure.DataAccess.dll" target="lib/net8.0/Infrastructure.DataAccess.dll" />
+  </files>
+</package>

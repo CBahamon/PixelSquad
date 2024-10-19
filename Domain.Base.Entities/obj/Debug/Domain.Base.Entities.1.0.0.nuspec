@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Domain.Base.Entities</id>
+    <version>1.0.0</version>
+    <authors>Domain.Base.Entities</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="9.0.0-rc.1.24451.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="9.0.0-rc.1.24451.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/bin/Debug/net8.0/Domain.Base.Entities.dll" target="lib/net8.0/Domain.Base.Entities.dll" />
+  </files>
+</package>

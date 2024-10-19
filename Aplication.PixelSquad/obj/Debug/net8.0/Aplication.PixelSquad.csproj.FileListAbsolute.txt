@@ -1,0 +1,17 @@
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/bin/Debug/net8.0/Aplication.PixelSquad.deps.json
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/bin/Debug/net8.0/Aplication.PixelSquad.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/bin/Debug/net8.0/Aplication.PixelSquad.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/bin/Debug/net8.0/Domain.Base.Entities.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/bin/Debug/net8.0/Infrastructure.DataAccess.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/bin/Debug/net8.0/Domain.Base.Entities.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/bin/Debug/net8.0/Infrastructure.DataAccess.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/Aplication.PixelSquad.csproj.AssemblyReference.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/Aplication.PixelSquad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/Aplication.PixelSquad.AssemblyInfoInputs.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/Aplication.PixelSquad.AssemblyInfo.cs
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/Aplication.PixelSquad.csproj.CoreCompileInputs.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/Aplicati.C42E5A9F.Up2Date
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/Aplication.PixelSquad.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/refint/Aplication.PixelSquad.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/Aplication.PixelSquad.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Aplication.PixelSquad/obj/Debug/net8.0/ref/Aplication.PixelSquad.dll

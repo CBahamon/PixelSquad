@@ -1,0 +1,12 @@
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/bin/Debug/net8.0/Domain.Base.Entities.deps.json
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/bin/Debug/net8.0/Domain.Base.Entities.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/bin/Debug/net8.0/Domain.Base.Entities.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/obj/Debug/net8.0/Domain.Base.Entities.csproj.AssemblyReference.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/obj/Debug/net8.0/Domain.Base.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/obj/Debug/net8.0/Domain.Base.Entities.AssemblyInfoInputs.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/obj/Debug/net8.0/Domain.Base.Entities.AssemblyInfo.cs
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/obj/Debug/net8.0/Domain.Base.Entities.csproj.CoreCompileInputs.cache
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/obj/Debug/net8.0/Domain.Base.Entities.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/obj/Debug/net8.0/refint/Domain.Base.Entities.dll
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/obj/Debug/net8.0/Domain.Base.Entities.pdb
+/Users/camilobahamon/Documents/PixelSquad/Company.PixelSquad/Domain.Base.Entities/obj/Debug/net8.0/ref/Domain.Base.Entities.dll
